@@ -75,5 +75,5 @@
   <!-- (TM): CHESSINGO is asserted as an unregistered trade mark of Tyga.Cloud Ltd
        (see /COPYRIGHT). Generic sans is fine here: two capitals this small read
        the same in any face, which is not true of the wordmark itself. -->
-  <text x="7575" y="420" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="300" fill="#ffd23f" stroke="#7a4a00" stroke-width="10" paint-order="stroke">TM</text>
+  <text x="7340" y="512" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-weight="700" font-size="340" fill="#ffd23f" stroke="#3b1460" stroke-width="22" stroke-linejoin="round" paint-order="stroke">TM</text>
 </svg>
