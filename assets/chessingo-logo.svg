@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7900 1310"
+     role="img" aria-label="CHESSINGO™" preserveAspectRatio="xMidYMid meet">
+  <title>CHESSINGO™</title>
+  <!-- The wordmark is OUTLINED, not live text. An SVG loaded through <img src>
+       runs in restricted mode and cannot fetch a webfont, so a <text> version
+       silently falls back to Times New Roman (measured). Outlines also make the
+       spelling impossible to break. Face: Cinzel 900, SIL OFL 1.1, which
+       expressly permits embedding. Background is fully transparent. -->
+  <defs>
+    <path id="w" d="M729 -292 753 -110Q733 -77 697.5 -49.0Q662 -21 606.5 -3.5Q551 14 472 14Q338 13 239.5 -29.5Q141 -72 88.0 -153.0Q35 -234 35 -351Q35 -465 87.0 -546.5Q139 -628 237.0 -671.0Q335 -714 473 -714Q557 -714 622.5 -700.0Q688 -686 730 -668L720 -477H711Q681 -583 624.0 -623.5Q567 -664 490 -664Q416 -664 363.5 -627.0Q311 -590 283.0 -521.0Q255 -452 255 -354Q255 -256 281.0 -185.5Q307 -115 355.5 -76.5Q404 -38 472 -36Q553 -36 601.0 -60.0Q649 -84 676.0 -140.5Q703 -197 721 -292Z M1607 -700V0H1402V-700ZM1133 -700V0H928V-700ZM1411 -375V-325H1123V-375ZM931 -73V0H851V-10Q851 -10 857.5 -10.0Q864 -10 864 -10Q890 -10 908.5 -28.5Q927 -47 928 -73ZM931 -627H928Q927 -653 908.5 -671.5Q890 -690 864 -690Q864 -690 857.5 -690.0Q851 -690 851 -690V-700H931ZM1130 -73H1133Q1134 -47 1152.5 -28.5Q1171 -10 1197 -10Q1197 -10 1203.0 -10.0Q1209 -10 1210 -10V0H1130ZM1130 -627V-700H1210V-690Q1209 -690 1203.0 -690.0Q1197 -690 1197 -690Q1171 -690 1152.5 -671.5Q1134 -653 1133 -627ZM1405 -73V0H1325V-10Q1326 -10 1332.0 -10.0Q1338 -10 1338 -10Q1364 -10 1383.0 -28.5Q1402 -47 1402 -73ZM1405 -627H1402Q1402 -653 1383.0 -671.5Q1364 -690 1338 -690Q1338 -690 1332.0 -690.0Q1326 -690 1325 -690V-700H1405ZM1604 -73H1607Q1608 -47 1626.5 -28.5Q1645 -10 1671 -10Q1671 -10 1677.5 -10.0Q1684 -10 1684 -10V0H1604ZM1604 -627V-700H1684V-690Q1684 -690 1677.5 -690.0Q1671 -690 1671 -690Q1645 -690 1626.5 -671.5Q1608 -653 1607 -627Z M2054 -700V0H1849V-700ZM2314 -51 2354 0H2051V-51ZM2281 -370V-320H2051V-370ZM2334 -700V-649H2051V-700ZM2395 -232 2357 0H2141L2177 -51Q2225 -51 2266.5 -72.5Q2308 -94 2339.0 -134.5Q2370 -175 2385 -232ZM2281 -322V-206H2271V-211Q2271 -258 2240.5 -288.5Q2210 -319 2163 -320V-322ZM2281 -484V-368H2163V-370Q2210 -371 2241.0 -402.0Q2272 -433 2271 -480V-484ZM2334 -652V-512H2324V-520Q2324 -580 2290.0 -614.5Q2256 -649 2195 -650V-652ZM2334 -718V-689L2212 -700Q2234 -700 2258.5 -703.0Q2283 -706 2304.0 -710.0Q2325 -714 2334 -718ZM1852 -73V0H1772V-10Q1772 -10 1778.5 -10.0Q1785 -10 1785 -10Q1811 -10 1829.5 -28.5Q1848 -47 1849 -73ZM1852 -627H1849Q1848 -653 1829.5 -671.5Q1811 -690 1785 -690Q1785 -690 1778.5 -690.0Q1772 -690 1772 -690V-700H1852Z M2731 -714Q2753 -714 2790.0 -712.0Q2827 -710 2867.0 -706.5Q2907 -703 2937.0 -699.5Q2967 -696 2976 -692L2956 -541H2946Q2946 -596 2903.5 -630.0Q2861 -664 2787 -664Q2726 -664 2690.0 -640.5Q2654 -617 2651 -580Q2648 -544 2675.5 -524.0Q2703 -504 2740 -487L2927 -400Q2983 -375 3015.0 -327.0Q3047 -279 3042 -206Q3035 -99 2952.5 -42.5Q2870 14 2728 14Q2670 14 2623.0 5.0Q2576 -4 2542.5 -18.5Q2509 -33 2491 -51Q2480 -76 2482.0 -112.0Q2484 -148 2495.5 -183.5Q2507 -219 2523 -240H2532Q2529 -188 2554.0 -141.0Q2579 -94 2629.0 -65.0Q2679 -36 2749 -36Q2821 -36 2855.5 -66.0Q2890 -96 2890 -134Q2890 -166 2865.5 -192.0Q2841 -218 2784 -244L2621 -320Q2552 -352 2520.5 -408.0Q2489 -464 2498 -535Q2505 -593 2535.0 -633.0Q2565 -673 2614.5 -693.5Q2664 -714 2731 -714ZM2978 -704 2975 -683H2830V-704Z M3404 -714Q3426 -714 3463.0 -712.0Q3500 -710 3540.0 -706.5Q3580 -703 3610.0 -699.5Q3640 -696 3649 -692L3629 -541H3619Q3619 -596 3576.5 -630.0Q3534 -664 3460 -664Q3399 -664 3363.0 -640.5Q3327 -617 3324 -580Q3321 -544 3348.5 -524.0Q3376 -504 3413 -487L3600 -400Q3656 -375 3688.0 -327.0Q3720 -279 3715 -206Q3708 -99 3625.5 -42.5Q3543 14 3401 14Q3343 14 3296.0 5.0Q3249 -4 3215.5 -18.5Q3182 -33 3164 -51Q3153 -76 3155.0 -112.0Q3157 -148 3168.5 -183.5Q3180 -219 3196 -240H3205Q3202 -188 3227.0 -141.0Q3252 -94 3302.0 -65.0Q3352 -36 3422 -36Q3494 -36 3528.5 -66.0Q3563 -96 3563 -134Q3563 -166 3538.5 -192.0Q3514 -218 3457 -244L3294 -320Q3225 -352 3193.5 -408.0Q3162 -464 3171 -535Q3178 -593 3208.0 -633.0Q3238 -673 3287.5 -693.5Q3337 -714 3404 -714ZM3651 -704 3648 -683H3503V-704Z M4095 -700V0H3890V-700ZM3893 -73V0H3813V-10Q3813 -10 3819.5 -10.0Q3826 -10 3826 -10Q3852 -10 3870.5 -28.5Q3889 -47 3890 -73ZM3893 -627H3890Q3889 -653 3870.5 -671.5Q3852 -690 3826 -690Q3826 -690 3819.5 -690.0Q3813 -690 3813 -690V-700H3893ZM4092 -73H4095Q4096 -47 4114.5 -28.5Q4133 -10 4159 -10Q4159 -10 4165.0 -10.0Q4171 -10 4172 -10V0H4092ZM4092 -627V-700H4172V-690Q4171 -690 4165.0 -690.0Q4159 -690 4159 -690Q4133 -690 4114.5 -671.5Q4096 -653 4095 -627Z M4326 -715 5001 -115 5014 14 4339 -585ZM4332 -71V0H4249V-10Q4249 -10 4258.0 -10.0Q4267 -10 4268 -10Q4293 -10 4311.0 -28.0Q4329 -46 4329 -71ZM4535 -71Q4535 -46 4553.0 -28.0Q4571 -10 4596 -10Q4597 -10 4606.0 -10.0Q4615 -10 4615 -10V0H4532V-71ZM4326 -715 4534 -499 4535 0H4329V-590Q4329 -649 4322.5 -682.0Q4316 -715 4316 -715ZM5010 -700V-114Q5010 -73 5013.5 -44.0Q5017 -15 5020.0 -0.5Q5023 14 5023 14H5014L4805 -218V-700ZM5090 -700V-690Q5090 -690 5081.0 -690.0Q5072 -690 5072 -690Q5047 -690 5029.0 -672.5Q5011 -655 5010 -629H5007V-700ZM4724 -700H4807V-629H4805Q4804 -655 4786.5 -672.5Q4769 -690 4743 -690Q4743 -690 4734.0 -690.0Q4725 -690 4724 -690Z M5922 -280V-115Q5898 -85 5845.0 -55.0Q5792 -25 5719.5 -5.5Q5647 14 5563 14Q5445 14 5357.5 -29.5Q5270 -73 5221.5 -155.0Q5173 -237 5173 -352Q5173 -465 5220.5 -546.0Q5268 -627 5358.0 -670.5Q5448 -714 5573 -714Q5628 -714 5685.5 -707.5Q5743 -701 5792.5 -691.0Q5842 -681 5871 -668L5861 -477H5852Q5831 -552 5794.0 -592.5Q5757 -633 5712.5 -648.5Q5668 -664 5623 -664Q5543 -664 5492.0 -626.0Q5441 -588 5417.0 -516.5Q5393 -445 5393 -342Q5393 -248 5413.5 -179.0Q5434 -110 5476.5 -73.0Q5519 -36 5585 -36Q5618 -36 5648.0 -48.0Q5678 -60 5697.5 -84.0Q5717 -108 5717 -143L5718 -280Q5718 -325 5667 -325H5651V-335H5987V-325H5972Q5920 -325 5922 -280Z M6477 -714Q6606 -714 6699.5 -670.5Q6793 -627 6843.0 -546.0Q6893 -465 6893 -350Q6893 -236 6843.0 -154.5Q6793 -73 6699.5 -29.5Q6606 14 6477 14Q6348 14 6255.0 -29.5Q6162 -73 6112.0 -154.0Q6062 -235 6062 -350Q6062 -464 6112.0 -545.5Q6162 -627 6255.0 -670.5Q6348 -714 6477 -714ZM6477 -36Q6539 -36 6582.5 -73.5Q6626 -111 6649.0 -181.0Q6672 -251 6672 -350Q6672 -449 6649.0 -519.0Q6626 -589 6582.5 -626.5Q6539 -664 6477 -664Q6416 -664 6372.5 -626.5Q6329 -589 6306.0 -519.0Q6283 -449 6283 -350Q6283 -251 6306.0 -181.0Q6329 -111 6372.5 -73.5Q6416 -36 6477 -36Z"/>
+
+    <!-- Metallic gold: a bright upper face, one crisp catch line just below the
+         optical centre, then a warm amber underside. The catch line is what
+         sells it as metal rather than as a flat gradient. -->
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.00" stop-color="#fff6cf"/>
+      <stop offset="0.26" stop-color="#ffe074"/>
+      <stop offset="0.49" stop-color="#ffc62e"/>
+      <stop offset="0.50" stop-color="#ffb01c"/>
+      <stop offset="0.72" stop-color="#ffcf52"/>
+      <stop offset="1.00" stop-color="#e08a0b"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.00" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="0.26" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="0.38" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="bloomM" x="-30%" y="-120%" width="160%" height="340%">
+      <feGaussianBlur stdDeviation="80"/>
+    </filter>
+    <filter id="bloomC" x="-25%" y="-90%" width="150%" height="280%">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+
+    <clipPath id="clipWord"><use href="#w"/></clipPath>
+  </defs>
+
+  <g transform="translate(300,980)">
+    <!-- 1. magenta bloom sits behind everything, widest and softest -->
+    <g filter="url(#bloomM)" opacity="0.95"><use href="#w" fill="#ff2d78"/></g>
+
+    <!-- 2. stepped extrude for depth (what the old flat wordmark lacked) -->
+      <use href="#w" x="80" y="80" fill="#4a0d5e"/>
+      <use href="#w" x="72" y="72" fill="#450c58"/>
+      <use href="#w" x="64" y="64" fill="#3f0c52"/>
+      <use href="#w" x="56" y="56" fill="#3a0b4d"/>
+      <use href="#w" x="48" y="48" fill="#340a47"/>
+      <use href="#w" x="40" y="40" fill="#2f0a41"/>
+      <use href="#w" x="32" y="32" fill="#2a093b"/>
+      <use href="#w" x="24" y="24" fill="#240835"/>
+      <use href="#w" x="16" y="16" fill="#1f0730"/>
+      <use href="#w" x="8" y="8" fill="#19072a"/>
+
+    <!-- 3. cyan rim light AFTER the extrude, or the extrude's offset copies
+         paint straight over it and only a sliver survives up-left. Nudged
+         against the extrude direction so it reads as a light source. -->
+    <g filter="url(#bloomC)" opacity="0.95">
+      <use href="#w" x="-10" y="-10" fill="#3fd8ff"/>
+    </g>
+
+    <!-- 4. navy keyline, drawn under the face via paint-order -->
+    <use href="#w" fill="url(#gold)" stroke="#1a0b36" stroke-width="30"
+         stroke-linejoin="round" paint-order="stroke"/>
+
+    <!-- 5. specular band across the upper third, clipped to the letters -->
+    <g clip-path="url(#clipWord)">
+      <rect x="-40" y="-740" width="7012" height="760" fill="url(#shine)"/>
+    </g>
+
+    <!-- 6. a cyan inner edge to tie the gold back to the palette -->
+    <use href="#w" fill="none" stroke="#9ff0ff" stroke-width="7" opacity="0.65"/>
+  </g>
+  <!-- (TM): CHESSINGO is asserted as an unregistered trade mark of Tyga.Cloud Ltd
+       (see /COPYRIGHT). Generic sans is fine here: two capitals this small read
+       the same in any face, which is not true of the wordmark itself. -->
+  <text x="7575" y="420" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="300" fill="#ffd23f" stroke="#7a4a00" stroke-width="10" paint-order="stroke">TM</text>
+</svg>
