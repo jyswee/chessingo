@@ -1,5 +1,7 @@
 # CHESSINGO™
 
+![CHESSINGO™](assets/chessingo-logo-king.png)
+
 **Represent your country. Climb a world ranking that is earned, not given.**
 
 Chessingo is fast, personality-first chess in the browser. Every opponent has a
